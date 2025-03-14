@@ -99,3 +99,6 @@ product-chart/
 - Start the **Node.js server first**, then run the Angular frontend.
 
 ---
+
+
+![image](https://github.com/user-attachments/assets/05cdbceb-a418-4f76-9e4d-37782fe8cf5b)
