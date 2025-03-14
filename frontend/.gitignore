@@ -1,0 +1,90 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+tmp/
+out-tsc/
+coverage/
+server.js
+server.ts
+server/**/*.js
+server/**/*.map
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+src/environments/environment.*
+firebase.json
+*.env
+.envrc
+
+# Logs
+logs/
+*.log
+*.log.*
+*.pid
+*.seed
+*.tgz
+*.bak
+*.swp
+.DS_Store
+
+# Git configuration
+.git/
+*.orig
+*.rej
+*.suo
+*.ntvs*
+*.njsproj
+*.sw?
+.project
+
+# Angular specific
+.angular/
+.angular/cache/
+.angular-build/
+*.tsbuildinfo
+
+# Debugging
+*.bak
+*.swp
+*.swo
+*.map
+*.only.js
+*.only.spec.js
+
+# Testing
+karma.conf.js
+test-reports/
+junit.xml
+jest/
+jest.cache/
+jest.config.js
+jest.setup.js
+.vitest/
+mocha/
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
