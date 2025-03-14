@@ -1,7 +1,3 @@
-Here’s the complete **README.md** content that you can **copy and paste** directly:
-
----
-
 # **Product Sales Dashboard**
 
 This is an **Angular 18 & Node.js** application that provides a **dashboard** to display **month-wise product sales** in both **tabular and graphical (chart) formats**. The application includes features to **export the sales data as an Excel file** and **export the chart as a PDF**.
